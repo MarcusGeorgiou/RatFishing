@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RatFishing.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\fabfr\OneDrive\Documents\RatFishing\RatFishing\Intermediate\Build\Win64\x64\RatFishingEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\fabfr\OneDrive\Documents\RatFishing\RatFishing\Intermediate\Build\Win64\x64\UnrealEditor\Development\RatFishing\RatFishing.init.gen.cpp.obj"
+"C:\Users\fabfr\OneDrive\Documents\RatFishing\RatFishing\Intermediate\Build\Win64\x64\UnrealEditor\Development\RatFishing\RatFishingGameModeBase.gen.cpp.obj"
+"C:\Users\fabfr\OneDrive\Documents\RatFishing\RatFishing\Intermediate\Build\Win64\x64\UnrealEditor\Development\RatFishing\RatFishing.cpp.obj"
+"C:\Users\fabfr\OneDrive\Documents\RatFishing\RatFishing\Intermediate\Build\Win64\x64\UnrealEditor\Development\RatFishing\RatFishingGameModeBase.cpp.obj"
+"C:\Users\fabfr\OneDrive\Documents\RatFishing\RatFishing\Intermediate\Build\Win64\x64\UnrealEditor\Development\RatFishing\Default.rc2.res"
+/OUT:"C:\Users\fabfr\OneDrive\Documents\RatFishing\RatFishing\Intermediate\Build\Win64\x64\UnrealEditor\Development\RatFishing\UnrealEditor-RatFishing.lib"

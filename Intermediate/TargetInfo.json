@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RatFishing",
+			"Path": "C:\\Users\\fabfr\\OneDrive\\Documents\\RatFishing\\RatFishing\\Source\\RatFishing.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RatFishingEditor",
+			"Path": "C:\\Users\\fabfr\\OneDrive\\Documents\\RatFishing\\RatFishing\\Source\\RatFishingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

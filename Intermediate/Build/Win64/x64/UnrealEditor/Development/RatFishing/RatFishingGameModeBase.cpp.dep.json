@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fabfr\\onedrive\\documents\\ratfishing\\ratfishing\\source\\ratfishing\\ratfishinggamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fabfr\\onedrive\\documents\\ratfishing\\ratfishing\\intermediate\\build\\win64\\x64\\ratfishingeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\fabfr\\onedrive\\documents\\ratfishing\\ratfishing\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ratfishing\\definitions.ratfishing.h",
+            "c:\\users\\fabfr\\onedrive\\documents\\ratfishing\\ratfishing\\source\\ratfishing\\ratfishinggamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\fabfr\\onedrive\\documents\\ratfishing\\ratfishing\\intermediate\\build\\win64\\unrealeditor\\inc\\ratfishing\\uht\\ratfishinggamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

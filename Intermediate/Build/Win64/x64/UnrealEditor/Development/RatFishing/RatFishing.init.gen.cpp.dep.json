@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\fabfr\\onedrive\\documents\\ratfishing\\ratfishing\\intermediate\\build\\win64\\unrealeditor\\inc\\ratfishing\\uht\\ratfishing.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\fabfr\\onedrive\\documents\\ratfishing\\ratfishing\\intermediate\\build\\win64\\x64\\ratfishingeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\fabfr\\onedrive\\documents\\ratfishing\\ratfishing\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ratfishing\\definitions.ratfishing.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
